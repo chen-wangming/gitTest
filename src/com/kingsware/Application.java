@@ -8,7 +8,6 @@ package com.kingsware;
 public class Application {
     public static void main(String[] args) {
        // master
-
         System.out.println("move to dev");
     }
 }
