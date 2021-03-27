@@ -13,6 +13,7 @@ import java.util.Scanner;
  */
 public class Application {
     public static void main(String[] args) {
+        System.out.println("Hello world!");
         Scanner input = new Scanner(System.in);
         System.out.println("输入ip：");
         String ip = input.nextLine();
